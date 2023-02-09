@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js and about Devops (AWS, Google Cloud, Firebase)**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-nmz-z.vercel.app](https://my-portfolio-nmz-z.vercel.app)
+- 👨‍💻 All of my projects are available at [https://diegoramirez.vercel.app](https://diegoramirez.vercel.app)
 
 - 📫 How to reach me **idiegoo.ra@gmail.com**
 
