@@ -1,4 +1,3 @@
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nmz-z)
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A 18 y/o frontend developer from Chile :)</h3>
 
