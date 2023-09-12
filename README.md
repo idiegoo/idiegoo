@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">A 18 y/o frontend developer from Chile :)</h3>
+<h3 align="center">A 19 y/o frontend developer from Chile :)</h3>
 
 - 🌱 I’m currently learning **TypeScript, Next.js and about Devops (AWS, Google Cloud, Firebase)**
 
