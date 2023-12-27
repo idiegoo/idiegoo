@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A 19 y/o frontend developer from Chile :)</h3>
 
-- 🌱 I’m currently learning **TypeScript, Next.js and about Devops (AWS, Google Cloud, Firebase)**
+- 🌱 I’m currently learning **NestJS**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-nmz-z.vercel.app](https://my-portfolio-nmz-z.vercel.app)
+- 👨‍💻 All of my projects are available at [https://diegoramirez.vercel.app](https://diegoramirez.vercel.app)
 
 - 📫 How to reach me **idiegoo.ra@gmail.com**
 
