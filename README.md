@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A 19 y/o Frontend developer from Chile :)</h3>
 
-- 📖 I’m currently studying computer science at the [Pontificia Universidad Católica de Chile](https://uc.cl)
+- 📖 I’m currently studying computer science at the [Pontificia Universidad Católica de Chile](https://uc.cl){:target="_blank"}
 
 - 🌱 I’m currently learning **backend with NestJS and some design patterns**
 
-- 👨‍💻 All of my projects are available at [diegoramirez.vercel.app](https://diegoramirez.vercel.app)
+- 👨‍💻 All of my projects are available at [diegoramirez.vercel.app](https://diegoramirez.vercel.app){:target="_blank"}
 
 - 📫 How to reach me **idiegoo.ra@gmail.com**
 
