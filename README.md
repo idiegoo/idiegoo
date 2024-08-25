@@ -3,7 +3,7 @@
 
 - 📖 I’m currently studying computer science at the <a href="https://uc.cl" target="_blank">Pontificia Universidad Católica de Chile</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://uc.cl" target="_blank">diegoramirez.vercel.app</a>
+- 👨‍💻 All of my projects are available at <a href="https://diegoramirez.vercel.app" target="_blank">diegoramirez.vercel.app</a>
 
 - 📫 How to reach me **idiegoo.ra@gmail.com**
 
