@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">Frontend dev</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 📖 I’m currently studying computer science at the <a href="https://uc.cl" target="_blank">Pontificia Universidad Católica de Chile</a>
 
