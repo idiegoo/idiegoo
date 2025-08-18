@@ -55,7 +55,7 @@
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
 </div>
 
----
+
 
 ## Connect with Me
 <div align="center">
@@ -64,7 +64,7 @@
   </a>
 </div>
 
----
+
 
 ## About Me
 
@@ -74,7 +74,7 @@
 - **📖 Currently Learning:** Analysis of Data Structures and Algorithms in C  
 - **🎨 Hobbies:** Gaming, music, exploring new tech ~~like the last weekly framework~~
 
----
+
 
 ## GitHub Stats
 
