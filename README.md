@@ -40,6 +40,8 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="supabase logo" />
 </div>
 
 ### Tools & others
