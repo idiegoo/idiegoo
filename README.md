@@ -63,12 +63,13 @@
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
 </div>
 
-
-
-## Connect with Me
+## Links
 <div align="center">
   <a href="https://linkedin.com/in/idiegoo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=idiegoo&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://idiegoo.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=idiegoo.vercel.app&color=7C3AED&logoColor=white&style=for-the-badge" height="25" alt="portfolio badge" />
   </a>
 </div>
 
@@ -81,13 +82,4 @@
 - **💻 Main Stack:** Frontend (React, Next.js, Tailwind)  
 - **📖 Currently Learning:** Analysis of Data Structures and Algorithms in C  
 - **🎨 Hobbies:** Gaming, music, exploring new tech ~~like the last weekly framework~~
-
-
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idiegoo&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top languages" />
-</div>
-
 </div>
