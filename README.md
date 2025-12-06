@@ -27,6 +27,8 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=astro" height="60" alt="astro logo" />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo" />
 </div>
 
 ### Backend
@@ -41,12 +43,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="supabase logo" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" />
 </div>
 
 ### Tools & others
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   <img width="12" />
