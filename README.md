@@ -50,7 +50,7 @@
 
 ### Tools & others
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img width="12" />
@@ -60,7 +60,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
 </div>
 
 
