@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=astro" height="60" alt="astro logo" />
-    <img width="12" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo" />
 </div>
 
@@ -52,13 +52,13 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
 </div>
