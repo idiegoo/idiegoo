@@ -15,6 +15,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="60" alt="ruby logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=latex" height="60" alt="latex logo" />
 </div>
 
