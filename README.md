@@ -31,6 +31,8 @@
   <img src="https://skillicons.dev/icons?i=astro" height="60" alt="astro logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rails" height="60" alt="rails logo" />
 </div>
 
 ### Backend
@@ -60,7 +62,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
 </div>
@@ -79,9 +85,9 @@
 
 ## About Me
 
-- **📚 Education:** Studying at [Pontificia Universidad Católica de Chile](https://www.uc.cl) (2nd year)  
+- **📚 Education:** Studying at [Pontificia Universidad Católica de Chile](https://www.uc.cl) (3rd year)  
 - **🎓 Degree:** Computer Science  
 - **💻 Main Stack:** Frontend (React, Next.js, Tailwind)  
 - **📖 Currently Learning:** Analysis of Data Structures and Algorithms in C  
-- **🎨 Hobbies:** Gaming, music, exploring new tech ~~like the last weekly framework~~
+- **🎨 Hobbies:** Gaming, Music, MTG, Football⚽
 </div>
