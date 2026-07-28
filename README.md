@@ -6,70 +6,28 @@
 ## Stack
 
 ### Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ruby" height="60" alt="ruby logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="60" alt="latex logo" />
-</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,c,ruby,latex" />
+</p>
 
 ### Frontend Frameworks & Libraries
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="60" alt="astro logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rails" height="60" alt="rails logo" />
-</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,astro,angular,rails" />
+</p>
 
 ### Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" />
-</div>
 
-### Tools & others
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,postgres,supabase,prisma,redis" />
+</p>
+
+### Tools & Others
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,nginx,docker,aws,vercel,git,github,postman" />
+</p>
 
 ## Links
 <div align="center">
