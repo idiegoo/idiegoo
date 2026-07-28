@@ -14,7 +14,7 @@
 ### Frontend Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,astro,angular,rails" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,astro,angular,rails" />
 </p>
 
 ### Backend
